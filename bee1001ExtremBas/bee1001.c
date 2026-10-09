@@ -11,7 +11,7 @@ int main (){
 
     x = a + b;
 
-    printf("A soma de numeros inteiros e: %d\n\n", x);
+    printf("X = %d\n\n", x);
     return 0;
     
-}
+}// prueba
